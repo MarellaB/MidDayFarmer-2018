@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MDF-Client/MDF-Client.iml" filepath="$PROJECT_DIR$/MDF-Client/MDF-Client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDF-Libs/MDF-Libs.iml" filepath="$PROJECT_DIR$/MDF-Libs/MDF-Libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDF-Server/MDF-Server.iml" filepath="$PROJECT_DIR$/MDF-Server/MDF-Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidDayFarmer_2018.iml" filepath="$PROJECT_DIR$/MidDayFarmer_2018.iml" />
     </modules>
   </component>
