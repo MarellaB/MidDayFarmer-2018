@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MDF-Libs/ConfigManager/ConfigManager.iml" filepath="$PROJECT_DIR$/MDF-Libs/ConfigManager/ConfigManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/MDF-Libs/Debugger/Debugger.iml" filepath="$PROJECT_DIR$/MDF-Libs/Debugger/Debugger.iml" />
       <module fileurl="file://$PROJECT_DIR$/MDF-Client/MDF-Client.iml" filepath="$PROJECT_DIR$/MDF-Client/MDF-Client.iml" />
       <module fileurl="file://$PROJECT_DIR$/MDF-Libs/MDF-Libs.iml" filepath="$PROJECT_DIR$/MDF-Libs/MDF-Libs.iml" />
