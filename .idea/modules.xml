@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/MDF-Libs/MDF-Libs.iml" filepath="$PROJECT_DIR$/MDF-Libs/MDF-Libs.iml" />
       <module fileurl="file://$PROJECT_DIR$/MDF-Server/MDF-Server.iml" filepath="$PROJECT_DIR$/MDF-Server/MDF-Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/MidDayFarmer_2018.iml" filepath="$PROJECT_DIR$/MidDayFarmer_2018.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDF-Libs/shaders/shaders.iml" filepath="$PROJECT_DIR$/MDF-Libs/shaders/shaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDF-Libs/ui/ui.iml" filepath="$PROJECT_DIR$/MDF-Libs/ui/ui.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,12 @@
+{
+  "shaders": [
+    {
+      "name": "TestShader",
+      "vertexAttributes": [
+        {
+          "name": "vertexPositions"
+        }
+      ]
+    }
+  ]
+}
