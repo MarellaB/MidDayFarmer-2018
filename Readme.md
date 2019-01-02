@@ -30,3 +30,14 @@ This is HOPEFULLY temporary until a better solution is found.
     
 To note. If a config item is found to need multiple items, you must create an entire class and
 use that as what is passed around.
+
+### To Create a Command
+All commands require their own class
+
+    1. Create a new class with the command name inside "inputHandler.commands".
+    2. Extend "Command".
+    3. Super the constructor, and pass the "command" to be used, and the "Description" of the new command.
+    4. Implement the logic of the command inside an overridden "execute" method.
+    5. To implement the command, add it to the "initializeCommands" method inside "CommandList"
+    
+An example command can be found inside "CommandTemplate", however this will probably be removed in future versions.
